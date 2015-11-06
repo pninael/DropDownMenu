@@ -1,0 +1,14 @@
+PODS:
+  - DropDownMenu (0.1.0)
+
+DEPENDENCIES:
+  - DropDownMenu (from `../`)
+
+EXTERNAL SOURCES:
+  DropDownMenu:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DropDownMenu: 717fa491d1aff784896080c2b3b56ff82fd2d0b0
+
+COCOAPODS: 0.38.2

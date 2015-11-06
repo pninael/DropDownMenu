@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = "DropDownMenu"
   s.version          = "0.1.0"
-  s.summary          = "A short description of DropDownMenu."
+  s.summary          = "DropDownMenu is a blocks based menu control, that enables creating a menu with action blocks assigned for each ."
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,9 +17,10 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = <<-DESC
+DropDownMenu is a blocks based menu control, that enables creating a menu with action blocks assigned for each menu item. The initialization and use are starightforward and super easy
                        DESC
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/DropDownMenu"
+  s.homepage         = "https://github.com/pninael/DropDownMenu"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Pnina Eliyahu" => "peliyahu@yammer-inc.com" }
